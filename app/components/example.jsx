@@ -12,7 +12,6 @@ var Example = (props) => {
           </li>
           <li>
             <Link to='/?location=Wah Cantt'>Wah Cantt , WH</Link>
-
           </li>
         </ol>
     </div>

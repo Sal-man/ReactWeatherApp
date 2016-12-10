@@ -8,7 +8,7 @@ const {width, height, scale} = Dimensions.get("window"),
 export default StyleSheet.create({
     "page-title": {
         "marginTop": 2.5,
-        "marginBottom": 2
+        "marginBottom": 2.5
     },
     "input[type=\"search\"]": {
         "boxShadow": "none"
